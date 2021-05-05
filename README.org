@@ -1,0 +1,12 @@
+#+TITLE: Montecarlo simulations
+
+Simlations, using montcarlo, using go.
+
+source:
+https://ggcarvalho.dev/posts/montecarlo/
+
+run with :
+
+#+begin_src bash
+go run .
+#+end_src
